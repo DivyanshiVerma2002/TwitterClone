@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8fcafc98-61d1-4df3-b462-be1df985f986/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/twitter-clone-div",
+    "appService.deploySubpath": "."
+}
